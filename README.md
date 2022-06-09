@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning ... C++, HTML, CSS and JS.
 - 📫 How to reach me ... mbeletato@outlook.com.
 
-- ☄ Almost a chemist and looking for a change of hearts to programming.
+- ☄ Chemist and looking for a change of hearts to programming.
